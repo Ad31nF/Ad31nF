@@ -40,3 +40,9 @@
 
 <h4 align="center"> All truths are easy to understand once they are discovered; the point is to discover them. </h4>
 <h6 align="center"> Galileo Galilei </h6>
+
+<p align="center"
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{Ad31nF}?pet-id=1" width="600" height="250"/>
+</a>
+</p>
